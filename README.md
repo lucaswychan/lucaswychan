@@ -2,8 +2,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasCwy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=LucasCwy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaswychan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=lucaswychan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswychan&layout=compact&theme=dracula&hide_border=false&border_radius=5" height="150" alt="top lang graph"  />
 </div>
 
 <hr />
@@ -61,7 +62,7 @@ I am a prospective MPhil student at HKUST with a deep passion for artificial int
 - Contrastive learning
 - Multimodal learning
 - Large language model
-- portfolio optimization
+- Portfolio optimization
 
 ###
 
