@@ -67,13 +67,13 @@ I am a prospective MPhil student at HKUST with a deep passion for artificial int
 ###
 
 ## Social Media💻
-Connect me via LinkedIn - 
+Connect me via LinkedIn  
 <a href="https://www.linkedin.com/in/lucas-chan-578039267" target="_blank">
    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </a>
 
-LeetCode account - 
-<a href="https://leetcode.com/u/LCCCCas/" target="_blank">
+LeetCode account  
+<a href="https://leetcode.com/u/lucaswyc/" target="_blank">
    <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=black&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </a>
 
