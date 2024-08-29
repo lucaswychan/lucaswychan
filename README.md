@@ -12,7 +12,12 @@
 ###
 
 ## About Me👋
-I am a prospective MPhil student at HKUST with a deep passion for artificial intelligence and quantitative research. I find immense joy in coding and continuously expanding my knowledge base. Through my research journey, I have had the opportunity to delve into the fascinating realms of AI and technology, allowing me to gain valuable insights.
+I am a MPhil student at HKUST with a deep passion for artificial intelligence and quantitative research. I find immense joy in coding and continuously expanding my knowledge base. Through my research journey, I have had the opportunity to delve into the fascinating realms of AI and technology, allowing me to gain valuable insights.
+
+###
+
+## My package
+[![PyPI](https://img.shields.io/pypi/v/neuralstockprophet?label=neuralstockprophet&color)](https://pypi.org/project/neuralstockprophet/)
 
 ###
 
@@ -25,15 +30,15 @@ I am a prospective MPhil student at HKUST with a deep passion for artificial int
 ###
 
 ## Social Media💻
-Connect me via LinkedIn  
-<a href="https://www.linkedin.com/in/lucas-chan-578039267" target="_blank">
-   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</a>
+#### Connect with Me
 
-LeetCode account  
-<a href="https://leetcode.com/u/lucaswyc/" target="_blank">
-   <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=black&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</a>
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&style=flat-square&logo=linkedin&color=0077B5&logoColor=white)](https://www.linkedin.com/in/lucas-chan-578039267)  
+[Connect with me on LinkedIn](https://www.linkedin.com/in/lucas-chan-578039267)
+
+#### LeetCode Profile
+
+[![LeetCode](https://img.shields.io/static/v1?style=flat-square&message=LeetCode&logo=leetcode&color=black)](https://leetcode.com/u/lucaswyc/)  
+[Check out my LeetCode profile](https://leetcode.com/u/lucaswyc/)
 
 <hr />
 
