@@ -11,7 +11,7 @@ I am currently pursuing an MPhil at The Hong Kong University of Science and Tech
 ## Package
 
 [![neuralstockprophet](https://img.shields.io/pypi/v/neuralstockprophet?label=neuralstockprophet&color=blue)](https://pypi.org/project/neuralstockprophet/)
-[![GitHub](https://img.shields.io/github/stars/lucaswychan/neural-stock-prophet?style=social)](https://github.com/lucaswychan/neuralstockprophet)
+[![GitHub](https://img.shields.io/github/stars/lucaswychan/neural-stock-prophet?style=social)](https://github.com/lucaswychan/neural-stock-prophet)
 
 ## Current Interests
  
