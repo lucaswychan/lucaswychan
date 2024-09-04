@@ -6,7 +6,7 @@
 
 ## About Me
 
-MPhil student at [HKUST](https://hkust.edu.hk) | Passionate about AI and quantitative research | Enthusiastic coder | Continuous learner
+I am currently pursuing an MPhil at The Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk)), where my research focuses on Large Language Models (LLMs). My passion for artificial intelligence drives me to explore the intricacies of machine learning and its applications. I have always been an avid learner, and I find immense joy and excitement in acquiring new knowledge and skills.
 
 ## Package
 
