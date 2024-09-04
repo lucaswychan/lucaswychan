@@ -39,13 +39,3 @@ I am a MPhil student at HKUST with a deep passion for artificial intelligence an
 
 [![LeetCode](https://img.shields.io/static/v1?style=flat-square&message=LeetCode&logo=leetcode&color=black)](https://leetcode.com/u/lucaswyc/)  
 [Check out my LeetCode profile](https://leetcode.com/u/lucaswyc/)
-
-<hr />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/lucaswychan/lucaswychan/output/snake.svg" alt="Snake animation" />
-
-###
