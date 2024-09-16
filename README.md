@@ -1,15 +1,16 @@
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-chan-578039267)
-[![X](https://img.shields.io/badge/-X.com-black?style=flat-square&logo=X&logoColor=white)](https://x.com/lucaswychan)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-gold?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/lucaswyc/)
+<div align="center">
+ 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/lucas-chan-578039267)
+[![X](https://img.shields.io/badge/-X.com-black?style=flat-square&logo=X)](https://x.com/lucaswychan)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-gold?style=flat-square&logo=leetcode)](https://leetcode.com/u/lucaswyc/)
 
-## About Me
+</div>
 
-I am currently pursuing an MPhil at The Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk)), where my research focuses on multimodal learning, knowledge graph, and large language models (LLMs), under the supervision of [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My passion for artificial intelligence drives me to explore the intricacies of machine learning and its applications. I have always been an avid learner, and I find immense joy and excitement in acquiring new knowledge and skills.
+## Greeting !
 
-## Package
+I am currently pursuing an MPhil degree at The Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk)), where my research focuses on multimodal learning, knowledge graph, and large language models (LLMs), under the supervision of [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My passion for artificial intelligence drives me to explore the intricacies of machine learning and its applications. I have always been an avid learner, and I find immense joy and excitement in acquiring new knowledge and skills.  
 
-[![neuralstockprophet](https://img.shields.io/pypi/v/neuralstockprophet?label=neuralstockprophet&color=blue)](https://pypi.org/project/neuralstockprophet/)
-[![GitHub](https://img.shields.io/github/stars/lucaswychan/neural-stock-prophet?style=social)](https://github.com/lucaswychan/neural-stock-prophet)
+Check out to my package [![neuralstockprophet](https://img.shields.io/pypi/v/neuralstockprophet?label=neuralstockprophet&color=blue)](https://pypi.org/project/neuralstockprophet/)
 
 ## Current Interests
  
