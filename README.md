@@ -1,8 +1,6 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaswychan&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=lucaswychan&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswychan&layout=compact&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="top lang graph" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-chan-578039267)
+[![X](https://img.shields.io/badge/-X.com-black?style=flat-square&logo=X&logoColor=white)](https://x.com/lucaswychan)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-gold?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/lucaswyc/)
 
 ## About Me
 
@@ -19,7 +17,10 @@ I am currently pursuing an MPhil at The Hong Kong University of Science and Tech
 • Large language models  
 • Portfolio optimization  
 
-## Connect With Me
+## Status
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-chan-578039267)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/lucaswyc/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaswychan&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=lucaswychan&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswychan&layout=compact&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="top lang graph" />
+</div>
