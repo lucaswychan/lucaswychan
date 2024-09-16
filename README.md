@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am currently pursuing an MPhil at The Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk)), where my research focuses on Large Language Models (LLMs). My passion for artificial intelligence drives me to explore the intricacies of machine learning and its applications. I have always been an avid learner, and I find immense joy and excitement in acquiring new knowledge and skills.
+I am currently pursuing an MPhil at The Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk)), where my research focuses on multimodal learning, knowledge graph, and large language models (LLMs), under the supervision of [Professor Yangqiu Song](https://www.cse.ust.hk/~yqsong/). My passion for artificial intelligence drives me to explore the intricacies of machine learning and its applications. I have always been an avid learner, and I find immense joy and excitement in acquiring new knowledge and skills.
 
 ## Package
 
