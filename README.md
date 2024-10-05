@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/lucas-chan-578039267)
 [![X](https://img.shields.io/badge/-X.com-black?style=flat-square&logo=X)](https://x.com/lucaswychan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-543DE0?style=flat-square&logo=About.me&logoColor=white)](https://lucaswychan.github.io)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-gold?style=flat-square&logo=leetcode)](https://leetcode.com/u/lucaswyc/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-gold?style=flat-square&logo=leetcode)](https://leetcode.com/u/lucaswychan/)
 [![PyPI](https://img.shields.io/badge/PyPI-blue?style=flat-square&logo=pypi)](https://pypi.org/user/lucaswychan/)
 
 </div>
