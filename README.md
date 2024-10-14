@@ -33,6 +33,6 @@ In addition to my core research areas, I am particularly passionate about applyi
 - Coding (especially leetcode everyday)
 - Tracking the lastest news in AI
 - Stock trading
-- Currently playing monster hunter rise
+- Playing some video games (currently monster hunter rise from switch and I know it's quite old)
 - Gymnasium
 
