@@ -1,9 +1,8 @@
 <div align="center">
  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/lucas-chan-578039267)
-[![X](https://img.shields.io/badge/-X.com-black?style=flat-square&logo=X)](https://x.com/lucaswychan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-543DE0?style=flat-square&logo=About.me&logoColor=white)](https://lucaswychan.github.io)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-gold?style=flat-square&logo=leetcode)](https://leetcode.com/u/lucaswychan/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucas-chan-578039267)
+[![X](https://img.shields.io/badge/-X.com-black?style=flat-square&logo=X)](https://x.com/lucaswychan)
 [![PyPI](https://img.shields.io/badge/PyPI-blue?style=flat-square&logo=pypi)](https://pypi.org/user/lucaswychan/)
 
 </div>
@@ -14,18 +13,18 @@ I am Lucas Chan, and I am currently pursuing an MPhil degree at [HKUST](https://
 
 Currently, I am expanding my research into multimodal learning, with a particular focus on developing high-quality question generation systems using [Multimodal LVLMs agents](https://www.superannotate.com/blog/llm-agents). This emerging area of study represents an exciting frontier in AI research, and I welcome collaborative opportunities and intellectual discourse on this topic.
 
-My academic work spans several areas of machine learning and its applications. I am the lead developer of [Neural Stock Prophet](https://github.com/lucaswychan/neural-stock-prophet), a [PyPI package](https://pypi.org/project/neuralstockprophet/) that integrates advanced algorithms such as [LSTM neural networks](https://en.wikipedia.org/wiki/Long_short-term_memory) with [attention](https://en.wikipedia.org/wiki/Attention_(machine_learning)) and [Autoregressive Integrated Moving Average (ARIMA)](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average) models for sophisticated stock forecasting. The project is currently in its testing and enhancement phase.
+My academic work spans several areas of machine learning and its applications. Currently I am developing a PyTorch-like neural network framework in pure C++ from scratch, using only C++ STL. It simulates the flexibility and extensibility of PyTorch, and I am planning to add more modules such as CNN and Transformer in the future.
 
 My portfolio also includes significant contributions to other machine learning domains. Notable among these are:
 
+- [Neural Stock Prophet](https://github.com/lucaswychan/neural-stock-prophet/): A [PyPI package](https://pypi.org/project/neuralstockprophet/) that integrates advanced algorithms such as [LSTM neural networks](https://en.wikipedia.org/wiki/Long_short-term_memory) with [attention](https://en.wikipedia.org/wiki/Attention_(machine_learning)) and [Autoregressive Integrated Moving Average (ARIMA)](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average) models for sophisticated stock forecasting.
 - [Car License Recognition](https://github.com/lucaswychan/car-plate-recognition): An optical character recognition (OCR) system employing [transfer learning](https://en.wikipedia.org/wiki/Transfer_learning) techniques for accurate vehicle license plate identification.
 - [Federated Edge AI for 6G](https://github.com/lucaswychan/Federated-Edge-AI-For-6G): A novel approach combining [Federated Dynamic Regularization (FedDyn)](https://arxiv.org/abs/2111.04263) and [Reconfigurable Intelligence Surface assisted Federated Learning (RIS-FL)](https://arxiv.org/abs/2011.10282) to address computation and communication heterogeneity in [federated learning](https://en.wikipedia.org/wiki/Federated_learning) environments.
-
-In addition to my core research areas, I am particularly passionate about applying machine learning techniques to [quantitative research](https://en.wikipedia.org/wiki/Quantitative_research). This interest stems from my belief in the transformative potential of AI in [ financial modeling](https://en.wikipedia.org/wiki/Financial_modeling), [risk assessment](https://en.wikipedia.org/wiki/Risk_assessment), and [market analysis](https://en.wikipedia.org/wiki/Market_analysis). My work on [Neural Stock Prophet](https://github.com/lucaswychan/neural-stock-prophet) is just one manifestation of this passion. I am actively exploring ways to leverage advanced machine learning algorithms, including deep learning and reinforcement learning, to enhance traditional quantitative models. My goal is to develop more robust, adaptive, and accurate predictive systems that can navigate the complexities of modern [financial markets](https://en.wikipedia.org/wiki/Financial_market).
 
 ## Current Interests
  
 - Multimodal learning
+- Embedding Model
 - Large vision language models
 - Portfolio optimization
 
