@@ -13,7 +13,7 @@ I am Lucas Chan, and I am currently pursuing an MPhil degree at [HKUST](https://
 
 Currently, I am expanding my research into multimodal learning, with a particular focus on developing high-quality question generation systems using [Multimodal LVLMs agents](https://www.superannotate.com/blog/llm-agents). This emerging area of study represents an exciting frontier in AI research, and I welcome collaborative opportunities and intellectual discourse on this topic.
 
-My academic work spans several areas of machine learning and its applications. Currently I am developing a PyTorch-like neural network framework in pure C++ from scratch, using only C++ STL. It simulates the flexibility and extensibility of PyTorch, and I am planning to add more modules such as CNN and Transformer in the future.
+My academic work spans several areas of machine learning and its applications. Currently I am developing a [PyTorch](https://pytorch.org)-like neural network framework in pure C++ from scratch, using only C++ STL. It simulates the flexibility and extensibility of PyTorch, and I am planning to add more modules such as CNN and Transformer in the future. For more details you can refer to [here](https://github.com/lucaswychan/neuralnet-cpp/).
 
 My portfolio also includes significant contributions to other machine learning domains. Notable among these are:
 
