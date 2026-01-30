@@ -21,7 +21,7 @@ I have been working as an AI Research Intern at [Amber Group](https://ambergroup
 
 ## Projects
 
-- **[Do Reasoning Models Enhance Embedding Models](https://github.com/HKUST-KnowComp/Reasoning-Embedding)**
+- **[Do Reasoning Models Enhance Embedding Models?](https://github.com/HKUST-KnowComp/Reasoning-Embedding)**
 - **[An Effective and Cost-Efficient Agentic Framework for Ethereum Smart Contract Auditing](https://arxiv.org/abs/2601.17833)**
 - **[Federated Edge AI for 6G](https://github.com/lucaswychan/Federated-Edge-AI-For-6G)** — Federated learning with FedDyn and RIS-FL for computation/communication heterogeneity
 - **[Neural Network Framework](https://github.com/lucaswychan/neuralnet-cpp/)** — PyTorch-like C++ framework built from scratch (STL only) with dynamic module stacking
