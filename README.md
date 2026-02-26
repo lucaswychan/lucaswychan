@@ -15,9 +15,9 @@ I have been working as an AI Research Intern at [Amber Group](https://ambergroup
                                                                                                                             
 ## Research Interests                                                                                                       
                                                                                                                             
-- **Representation Learning** - Latent Space, Representation Similarity, and Manifold Learning
-- **Large Language Models** — Reasoning, training, alignment, and safety
-- **AI Agents** — Autonomous systems, tool use, and multi-agent cooperation                                                                    
+- **Representation Learning** - Embedding Model, Representation Similarity Analysis, Manifold Learning
+- **Large Language Models** — Reasoning, Training, Safety
+- **AI Agents** — Multi-agent system, Self-Evolving Agent, Memory
 
 ## Projects
 
